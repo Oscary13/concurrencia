@@ -1,0 +1,16 @@
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.exe.config
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.exe
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.pdb
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.SuggestedBindingRedirects.cache
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.exe
+C:\Users\oscar\source\repos\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.pdb
+E:\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.exe.config
+E:\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.exe
+E:\Concurrencia1\Concurrencia1\bin\Debug\Concurrencia1.pdb
+E:\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.AssemblyReference.cache
+E:\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.SuggestedBindingRedirects.cache
+E:\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.csproj.CoreCompileInputs.cache
+E:\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.exe
+E:\Concurrencia1\Concurrencia1\obj\Debug\Concurrencia1.pdb
